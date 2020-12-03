@@ -13,7 +13,7 @@
     "And then send this command: %s": "Ve ondan sonra bu komutu gonder: %s",
     "Send this command to create invite: %s": "Davet olusturmak icin bu komutu gonder: %s",
     "Invite link has been changed": "Davet linki degistirildi",
-  	"Invite link has not been changed": "Invite link has not been changed",
+  	"Invite link has not been changed": "Davet linki degistirilemedi",
     "Invalid channel: %s": "Gecersiz kanal: %s",
     "This command can only be executed by administrators": "Bu komut sadece yoneticiler tarafindan kullanilabilir",
     "Server ID": "Sunucu Kimligi",
