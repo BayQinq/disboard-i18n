@@ -1,6 +1,6 @@
 {
     "DISBOARD: The Public Server List": "DISBOARD: Genel Sunucu Listesi",
-    "Hi! I am a bot for DISBOARD (https://disboard.org/)": "Merhaba! DISBOARD icin bir botum. (https://disboard.org/)",
+    "Hi! I am a bot for DISBOARD (https://disboard.org/)": "Merhaba! Ben DISBOARD'un botuyum. (https://disboard.org/)",
     "COMMAND LIST": "KOMUT LISTESI",
     "This!": "Bu!",
     "Bump this server": "Sunucuyu patlat",
@@ -18,7 +18,7 @@
     "This command can only be executed by administrators": "Bu komut sadece yoneticiler tarafindan kullanilabilir",
     "Server ID": "Sunucu Kimligi",
     "Shard ID": "Shard Kimligi",
-    "Default channel": "Normal kanal",
+    "Default channel": "Varsayilan kanal",
     "Invite Link": "Davet Linki",
     "Main Language": "Ana Dil",
     "I'm handling your command": "Komudunu ele aliyorum.",
