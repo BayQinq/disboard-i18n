@@ -140,7 +140,7 @@ return [
     'User' => 'Kullanici',
     'Users' => 'Kullanicilar',
     'View' => 'Goruntule', // view server button on Dashboard
-    'Want to be a partner?' => 'Bir ortak olmak ister misin?',
+    'Want to be a partner?' => 'Ortak olmak ister misin?',
     'Why don\'t you review your favorite <span class="discord-logo">Discord</span> server?' => 'Neden favori <span class="discord-logo">Discord</span> sunucunu elestirmiyorsun?',
     'Why don\'t you <a href="{reviewUrl}">review <strong>{serverName}</strong></a>?' => 'Neden <a href="{reviewUrl}">elestirmiyorsun <strong>{serverName}</strong></a>?',
     'You haven\'t added a server yet' => 'Henuz bir sunucu eklemedin',
