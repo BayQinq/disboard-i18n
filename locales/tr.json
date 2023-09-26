@@ -1,13 +1,13 @@
 {
 	"tagline": "DISBOARD: Sunucu Listesi",
-	"inviteChanged": "Sunucu daveti kanalı {{ inviteChannel }} kanalına değiştirildi. :sparkles:",
+	"inviteChanged": "Sunucu daveti kanalı, {{ inviteChannel }} kanalı olarak değiştirildi. :sparkles:",
 	"bumpDone": "Öne çıkarma başarılı!",
 	"checkOnDisboard": {
 		"embed": " [DISBOARD'da] kontrol edin ({{ link }}).",
 		"text": "DISBOARD'da kontrol edin: {{ link }}."
 	},
 	"help": {
-		"title": "Merhaba! Ben DISBOARD için bir botum ({{ siteLink }})",
+		"title": "Merhaba! Ben DISBOARD botuyum ({{ siteLink }})",
 		"commandList": "KOMUT LİSTESİ",
 		"descriptions": {
 			"bump": "Bu sunucuyu öne çıkar.",
